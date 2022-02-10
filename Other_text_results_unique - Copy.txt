@@ -1,0 +1,1 @@
+<_io.TextIOWrapper name='Other_texts\\english3.txt' mode='r' encoding='cp1252'> => [0.9999974289137452, 0.0023422823807296668, 0.00229590132000795]

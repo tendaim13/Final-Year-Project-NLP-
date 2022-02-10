@@ -1,0 +1,4 @@
+<_io.TextIOWrapper name='Iban_21.11.59\\article1.txt' mode='r' encoding='cp1252'> => [1.0, 0.04101263993352824, 0.2587478119713712]
+<_io.TextIOWrapper name='Iban_21.11.59\\article10.txt' mode='r' encoding='cp1252'> => [1.0, 0.1408912339083171, 0.33740589588525555]
+<_io.TextIOWrapper name='Iban_21.11.59\\article11.txt' mode='r' encoding='cp1252'> => [0.9999999999999999, 0.09423099728564573, 0.24161695284779533]
+<_io.TextIOWrapper name='Other_texts\\english3.txt' mode='r' encoding='cp1252'> => [0.9999974292785374, 0.002299019417843895, 0.0022804036627870213]

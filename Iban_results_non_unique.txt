@@ -1,0 +1,1 @@
+<_io.TextIOWrapper name='Iban_21.11.59\\article1.txt' mode='r' encoding='cp1252'> => [1.0, 0.07499564231847108, 0.3125719591534451]

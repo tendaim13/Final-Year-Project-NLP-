@@ -1,0 +1,4 @@
+maybe add a selection (i.e either access folder or file depending on user)
+word frequency -  are there words than apear ore in Malay or in Iban?
+Can i get an iban or malay dictionary form the internet? if so whats the expectancy level?
+WHat if a document is in malay but hte 1000 words arent enough to figure it out, then should we add teh resulting words to malay dictionary???
